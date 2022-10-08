@@ -4,7 +4,7 @@
 
 
 
-## Name : Atul Singh
+## Name : Mohammed sarfaraz
 
 ---
 
@@ -20,6 +20,7 @@
 
 ---
 
-![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--15-violet)
+![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--1-violet)
+
 
 ![LCO](1.png)
