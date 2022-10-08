@@ -22,4 +22,4 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--15-violet)
 
-![LCO](./15.png)
+![LCO](1.png)
